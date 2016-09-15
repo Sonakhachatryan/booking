@@ -1,0 +1,22 @@
+#user-image{
+    width: 200px;
+    height: 200px;
+}
+
+.border-bottom{
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+.no-border-web > tbody > tr > td {
+    border-top: 0 !important;
+}
+
+.upload-image{
+    max-height: 100px;
+    max-width: 100px;
+    min-height: 120px;
+}
+
+.custom-fl{
+    float: right;
+}
